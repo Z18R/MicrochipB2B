@@ -1,0 +1,152 @@
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.exe
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.deps.json
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.runtimeconfig.json
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.pdb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.GenerateResource.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.AssemblyInfo.vb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.CopyComplete
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\refint\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.pdb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\ref\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.Form1.resources
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.exe
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.deps.json
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.runtimeconfig.json
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.pdb
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.Form1.resources
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.GenerateResource.cache
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.AssemblyInfo.vb
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.CopyComplete
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\refint\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.pdb
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\ATEC\B2B MICROCHIP\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\ref\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.exe
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.deps.json
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.runtimeconfig.json
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.pdb
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.Form1.resources
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.GenerateResource.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.AssemblyInfo.vb
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.CopyComplete
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\refint\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.pdb
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_MicrochipTest\obj\Debug\net7.0-windows\ref\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.exe
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.deps.json
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.runtimeconfig.json
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\B2B_MicrochipTest.pdb
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.Form1.resources
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.GenerateResource.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.AssemblyInfo.vb
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.vbproj.CopyComplete
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\refint\B2B_MicrochipTest.dll
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.pdb
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\B2B_MicrochipTest.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\B2B_MicrochipTest\B2B_microchip_modi\B2B_MicrochipTest\obj\Debug\net7.0-windows\ref\B2B_MicrochipTest.dll
