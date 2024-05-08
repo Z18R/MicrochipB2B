@@ -53,7 +53,6 @@ Public Class EmailHandler
 
             ' Set up SMTP client
             Dim sql_handler As New SQLHandler
-            ServicePointManager.SecurityProtocol = CType(48 Or 192 Or 768 Or 3072, SecurityProtocolType)
             Dim ds As New DataSet
             Dim strSQL As String = "usp_Get_ATEC_EmailServer_V2"
             Dim Username, Password As String
@@ -67,8 +66,8 @@ Public Class EmailHandler
                     SmtpMail.Port = ds.Tables(0).Rows(0).Item("Port").ToString()
                     Username = ds.Tables(0).Rows(0).Item("Username").ToString()
                     Password = ds.Tables(0).Rows(0).Item("Password").ToString()
-                    SmtpMail.UseDefaultCredentials = True
-                    SmtpMail.Credentials = New System.Net.NetworkCredential(Username, Password)
+                    SmtpMail.UseDefaultCredentials = False
+                    SmtpMail.Credentials = New NetworkCredential(Username, Password)
                     SmtpMail.EnableSsl = True
                 End If
             End If

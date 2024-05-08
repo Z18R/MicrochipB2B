@@ -56,15 +56,15 @@ Public Class SQLHandler
         'username = "sa"
         'password = "dnhk0723$%"
 
-        'server = "MSDYNAMICS-DB\AXDB"
-        'database = "MES_ATEC"
-        'username = "sa"
-        'password = "p@ssw0rd"
-
-        server = "DESKTOP-6E9LU1F\SQLEXPRESS"
+        server = "MSDYNAMICS-DB\AXDB"
         database = "MES_ATEC"
         username = "sa"
-        password = "18Bz23efBd0J"
+        password = "p@ssw0rd"
+
+        'server = "DESKTOP-6E9LU1F\SQLEXPRESS"
+        'database = "MES_ATEC"
+        'username = "sa"
+        'password = "18Bz23efBd0J"
 
         'server = "ATEC-MES2"
         'database = "MES_ATEC"

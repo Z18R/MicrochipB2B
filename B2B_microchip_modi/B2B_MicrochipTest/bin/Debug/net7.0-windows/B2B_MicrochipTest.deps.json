@@ -9,6 +9,7 @@
       "B2B_MicrochipTest/1.0.0": {
         "dependencies": {
           "EPPlus": "7.1.1",
+          "SSH.NET": "2024.0.0",
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {
@@ -192,6 +193,14 @@
             "rid": "win-x86",
             "assetType": "native",
             "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "SSH.NET/2024.0.0": {
+        "runtime": {
+          "lib/net7.0/Renci.SshNet.dll": {
+            "assemblyVersion": "2024.0.0.0",
+            "fileVersion": "2024.0.0.0"
           }
         }
       },
@@ -402,6 +411,13 @@
       "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "SSH.NET/2024.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-klFPBbrGtFY9V8kbh5PQwlexj7Z8fwbpwABvLX0QzCmzW06rkLknEeM1l6np2hkUfg5an5w/GzHUhWTHN1TJpA==",
+      "path": "ssh.net/2024.0.0",
+      "hashPath": "ssh.net.2024.0.0.nupkg.sha512"
     },
     "System.ComponentModel.Annotations/5.0.0": {
       "type": "package",

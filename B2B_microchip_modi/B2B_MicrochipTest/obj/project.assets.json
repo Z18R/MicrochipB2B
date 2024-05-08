@@ -309,6 +309,19 @@
           }
         }
       },
+      "SSH.NET/2024.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Renci.SshNet.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Renci.SshNet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.ComponentModel.Annotations/5.0.0": {
         "type": "package",
         "compile": {
@@ -991,6 +1004,31 @@
         "version.txt"
       ]
     },
+    "SSH.NET/2024.0.0": {
+      "sha512": "klFPBbrGtFY9V8kbh5PQwlexj7Z8fwbpwABvLX0QzCmzW06rkLknEeM1l6np2hkUfg5an5w/GzHUhWTHN1TJpA==",
+      "type": "package",
+      "path": "ssh.net/2024.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "SS-NET-icon-h500.png",
+        "lib/net462/Renci.SshNet.dll",
+        "lib/net462/Renci.SshNet.xml",
+        "lib/net6.0/Renci.SshNet.dll",
+        "lib/net6.0/Renci.SshNet.xml",
+        "lib/net7.0/Renci.SshNet.dll",
+        "lib/net7.0/Renci.SshNet.xml",
+        "lib/net8.0/Renci.SshNet.dll",
+        "lib/net8.0/Renci.SshNet.xml",
+        "lib/netstandard2.0/Renci.SshNet.dll",
+        "lib/netstandard2.0/Renci.SshNet.xml",
+        "lib/netstandard2.1/Renci.SshNet.dll",
+        "lib/netstandard2.1/Renci.SshNet.xml",
+        "ssh.net.2024.0.0.nupkg.sha512",
+        "ssh.net.nuspec"
+      ]
+    },
     "System.ComponentModel.Annotations/5.0.0": {
       "sha512": "dMkqfy2el8A8/I76n2Hi1oBFEbG1SfxD2l5nhwXV3XjlnOmwxJlQbYpJH4W51odnU9sARCSAgv7S3CyAFMkpYg==",
       "type": "package",
@@ -1507,23 +1545,29 @@
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "EPPlus >= 7.1.1",
+      "SSH.NET >= 2024.0.0",
       "System.Data.SqlClient >= 4.8.6"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ezer\\.nuget\\packages\\": {}
+    "C:\\Users\\jc_it\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ezer\\Desktop\\B2B_MicrochipTest\\B2B_microchip_modi\\B2B_MicrochipTest\\B2B_MicrochipTest.vbproj",
+      "projectUniqueName": "C:\\Users\\jc_it\\Desktop\\B2B MICROCHIP\\B2B_microchip_modi\\B2B_MicrochipTest\\B2B_MicrochipTest.vbproj",
       "projectName": "B2B_MicrochipTest",
-      "projectPath": "C:\\Users\\Ezer\\Desktop\\B2B_MicrochipTest\\B2B_microchip_modi\\B2B_MicrochipTest\\B2B_MicrochipTest.vbproj",
-      "packagesPath": "C:\\Users\\Ezer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ezer\\Desktop\\B2B_MicrochipTest\\B2B_microchip_modi\\B2B_MicrochipTest\\obj\\",
+      "projectPath": "C:\\Users\\jc_it\\Desktop\\B2B MICROCHIP\\B2B_microchip_modi\\B2B_MicrochipTest\\B2B_MicrochipTest.vbproj",
+      "packagesPath": "C:\\Users\\jc_it\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jc_it\\Desktop\\B2B MICROCHIP\\B2B_microchip_modi\\B2B_MicrochipTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ezer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jc_it\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1531,6 +1575,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1552,6 +1597,10 @@
           "EPPlus": {
             "target": "Package",
             "version": "[7.1.1, )"
+          },
+          "SSH.NET": {
+            "target": "Package",
+            "version": "[2024.0.0, )"
           },
           "System.Data.SqlClient": {
             "target": "Package",
@@ -1577,7 +1626,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
